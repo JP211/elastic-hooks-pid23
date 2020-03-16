@@ -1,0 +1,17 @@
+.product-img {
+  height: 50px;
+  width: 50px;
+}
+
+h1 {
+  font-size: 16px;
+  font-weight: 900;
+}
+
+h2 {
+  font-size: 14px;
+}
+
+.textBox {
+  padding: 100px;
+}
